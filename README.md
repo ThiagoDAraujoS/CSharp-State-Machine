@@ -7,12 +7,11 @@ After that that state machine's data is saved for later reuse.
 
 ### Table of Contents
 #### [Engine](https://github.com/ThiagoDAraujoS/CSharp-State-Machine/wiki/Engine)
-#### State
-- State From
-- Initial
-- Override
+#### [State](https://github.com/ThiagoDAraujoS/CSharp-State-Machine/wiki/State)
+- [State From](https://github.com/ThiagoDAraujoS/CSharp-State-Machine/wiki/State#state-from-name)
+- [Initial](https://github.com/ThiagoDAraujoS/CSharp-State-Machine/wiki/State#initial-state)
+- [Override](https://github.com/ThiagoDAraujoS/CSharp-State-Machine/wiki/State#override-state)
 #### Link 
 - Link To
 - Mask
 - Reverse
-#### Usage Techniques
