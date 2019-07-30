@@ -11,7 +11,7 @@ After that that state machine's data is saved for later reuse.
 - [State From](https://github.com/ThiagoDAraujoS/CSharp-State-Machine/wiki/State#state-from-name)
 - [Initial](https://github.com/ThiagoDAraujoS/CSharp-State-Machine/wiki/State#initial-state)
 - [Override](https://github.com/ThiagoDAraujoS/CSharp-State-Machine/wiki/State#override-state)
-#### Link 
-- Link To
-- Mask
-- Reverse
+#### [Link](https://github.com/ThiagoDAraujoS/CSharp-State-Machine/wiki/Link)
+- [Link To](https://github.com/ThiagoDAraujoS/CSharp-State-Machine/wiki/Link#link-to-state)
+- [Mask](https://github.com/ThiagoDAraujoS/CSharp-State-Machine/wiki/Link#mask-states)
+- [Reverse](https://github.com/ThiagoDAraujoS/CSharp-State-Machine/wiki/Link#reverse)
