@@ -1,6 +1,5 @@
 # State Machine
-### About
-#### Description
+### Description
 A base library that helps with the creation of smart state machines with the help of System.Reflection.  
 Any time a new type of state machine is instantiated, keeping it for further re-use.
 
