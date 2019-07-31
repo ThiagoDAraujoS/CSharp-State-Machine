@@ -1,9 +1,8 @@
 # State Machine
 ### About
 #### Description
-A base library that helps the creation of smart state machines with the use of reflections.
-The reflection only happens only once every time a new "kind" of state machine is initialized.
-After that that state machine's data is saved for later reuse.
+A base library that helps with the creation of smart state machines with the help of System.Reflection.  
+Any time a new type of state machine is instantiated, keeping it for further re-use.
 
 ### Table of Contents
 #### [Engine](https://github.com/ThiagoDAraujoS/CSharp-State-Machine/wiki/Engine)
